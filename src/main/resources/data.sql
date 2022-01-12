@@ -1,0 +1,1 @@
+insert into role(id,role_name) values (3,'ROLE_EMPLOYEE')
